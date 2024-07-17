@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-[Curriculum Vitae (CV)](https://github.com/GastaoCruzUoM/GastaoCruzUoM.github.io/files/Cruz_CV_Elements_JAN_2024.pdf)
+[Curriculum Vitae (CV)](https://GastaoCruzUoM.github.io/files/Cruz_CV_Elements_JAN_2024.pdf)
 
-I'm an Associate Professor blah blah blah
-postdoctoral researcher working under the guidance of Prof. Jeffrey Fessler, Prof. Douglas Noll, and Prof. Zhongming Liu at the University of Michigan. I completed my PhD studies at the University of Southern California working under the supervision of Prof. Justin Haldar.  My research interests include signal and image processing, magnetic resonance imaging (MRI), computational imaging, inverse problems, and the connections between machine learning and constrained image reconstruction.
+I'm an Associate Professor at the Michigan Institute for Imaging Technology and Translation (MIITT) developing quantiative MR imaging in the body. Reach out if you are interested in working in this area :)
